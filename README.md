@@ -1,7 +1,5 @@
 # Lumina AI - Next Gen Chatbot Interface
 
-![Lumina AI Banner](public/banner-placeholder.png)
-
 ## Deskripsi
 
 **Lumina AI** adalah antarmuka chatbot modern yang dirancang dengan estetika **Glassmorphism** premium. Proyek ini berfokus pada pengalaman pengguna yang halus (buttery smooth), responsif di berbagai perangkat (Mobile & Desktop), dan visual yang memukau dengan animasi latar belakang yang dinamis.
