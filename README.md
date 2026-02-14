@@ -64,4 +64,4 @@ Berikut adalah beberapa fitur dan peningkatan yang direncanakan untuk pengembang
 
 ---
 
-Dibuat dengan oleh [Gadang Mahiswara](jmahiswara.my.id)
+Dibuat dengan oleh [Gadang Mahiswara](https://jmahiswara.my.id)
